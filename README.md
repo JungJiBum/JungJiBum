@@ -13,7 +13,7 @@
 ### Skills
 > Language
 
-<img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor="white"/>
+<img src="https://img.shields.io/badge/-python-blue"/>
 
 Python, C#
 
