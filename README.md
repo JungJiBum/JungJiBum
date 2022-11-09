@@ -14,7 +14,7 @@
 > Language
 
 <img src="https://img.shields.io/badge/-python-blue"/>
-<img src="https://img.shields.io/badge/-C#-white"/>
+<img src="https://img.shields.io/badge/-'C#'-white"/>
 
 Python, C#
 
