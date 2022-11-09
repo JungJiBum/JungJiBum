@@ -10,7 +10,8 @@
 > 🛠 Software Engineer (Taihan Fiberoptics)
 ---
 
-### Skills
+<h3 align="center">📚 Tech Stack 📚</h3>
+
 > Language
 
 <img src="https://img.shields.io/badge/-python-blue"/>
