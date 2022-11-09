@@ -14,17 +14,20 @@
 > Language
 
 <img src="https://img.shields.io/badge/-python-blue"/>
-<img src="https://img.shields.io/badge/-'C#'-white"/>
-
-Python, C#
+C#
 
 > Database
 
-mysql, ms-sql, oracle, mariaDB
+<img src="https://img.shields.io/badge/-mysql-red"/>
+<img src="https://img.shields.io/badge/-ms-sql-red"/>
+<img src="https://img.shields.io/badge/-Oracle-red"/>
+<img src="https://img.shields.io/badge/-mariaDB-red"/>
 
 > DevOps, Etc
 
-Github, Docker, vscode,
+<img src="https://img.shields.io/badge/-Github-green"/>
+<img src="https://img.shields.io/badge/-Docker-green"/>
+<img src="https://img.shields.io/badge/-vscode-green"/>
 
 <!--
 **JungJiBum/JungJiBum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
