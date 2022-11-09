@@ -13,7 +13,7 @@
 <h2 align="center">📚 Tech Stack 📚</h3>
 > Language
 
-<img src="https://img.shields.io/badge/-python-blue"/> <img src="https://img.shields.io/badge/-Microsoft C#-blue"/> 
+<img src="https://img.shields.io/badge/-python-blue"/> <img src="https://img.shields.io/badge/-CS-blue"/> 
 
 > Database
 
