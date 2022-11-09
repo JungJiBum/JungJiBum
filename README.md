@@ -1,4 +1,29 @@
-### Hi there 👋
+# Good to see you, My name is JiBum Jung
+---
+## Education
+
+>🎓 Computer Convergence and Electronic Engineering at Sunmoon Graduate School(20.03 ~ 22.02)
+>🎓 Computer Science and Engineering at Sunmoon University(16.03 ~ 20.02)
+
+## Position
+
+> 🛠 Software Engineer (Taihan Fiberoptics)
+---
+
+### Skills
+> Language
+
+<img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor="white"/>
+
+Python, C#
+
+> Database
+
+mysql, ms-sql, oracle, mariaDB
+
+> DevOps, Etc
+
+Github, Docker, vscode,
 
 <!--
 **JungJiBum/JungJiBum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
