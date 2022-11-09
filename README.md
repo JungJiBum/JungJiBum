@@ -10,10 +10,8 @@
 > 🛠 Software Engineer (Taihan Fiberoptics)
 ---
 
-<h3 align="center">📚 Tech Stack 📚</h3>
-
-> Language
-
+<h2 align="center">📚 Tech Stack 📚</h3>
+<p align="Center>
 <img src="https://img.shields.io/badge/-python-blue"/>
 C#
 
