@@ -18,11 +18,11 @@ C#
 
 > Database
 
-<img src="https://img.shields.io/badge/-mysql-red"/><img src="https://img.shields.io/badge/-MsSql-red"/><img src="https://img.shields.io/badge/-Oracle-red"/><img src="https://img.shields.io/badge/-mariaDB-red"/>
+<img src="https://img.shields.io/badge/-mysql-red"/> <img src="https://img.shields.io/badge/-MsSql-red"/> <img src="https://img.shields.io/badge/-Oracle-red"/> <img src="https://img.shields.io/badge/-mariaDB-red"/>
 
 > DevOps, Etc
 
-<img src="https://img.shields.io/badge/-Github-green"/><img src="https://img.shields.io/badge/-Docker-green"/><img src="https://img.shields.io/badge/-vscode-green"/>
+<img src="https://img.shields.io/badge/-Github-green"/> <img src="https://img.shields.io/badge/-Docker-green"/> <img src="https://img.shields.io/badge/-vscode-green"/>
 
 <!--
 **JungJiBum/JungJiBum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
