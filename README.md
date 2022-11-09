@@ -11,7 +11,8 @@
 ---
 
 <h2 align="center">📚 Tech Stack 📚</h3>
-<p align="Center>
+> Language
+
 <img src="https://img.shields.io/badge/-python-blue"/>
 C#
 
