@@ -13,7 +13,7 @@
 ---
 
 <h2 align="center">📚 Tech Stack 📚</h3>
-<p align="center">I can use this skills</p>
+<p align="center">I mainly use this skills</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
@@ -22,7 +22,10 @@
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp
-<br>
+</p>
+
+<p align="center">I have experience with these skills.</p>
+<p align="center">
 <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=CSharp&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
