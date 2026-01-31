@@ -2,7 +2,7 @@
 
 # Good to see you, My name is JiBum Jung
 ---
-## Education
+## EducationTEST
 
 >🎓 Computer Convergence and Electronic Engineering at Sunmoon Graduate School(20.03 ~ 22.02)   
 >🎓 Computer Science and Engineering at Sunmoon University(16.03 ~ 20.02)
