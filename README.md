@@ -64,7 +64,7 @@ Backend 기술을 직접 구현하고 실험하며,
 
 `Python` `FastAPI` `Backend Engineering`
 
-> Public release 준비 중
+→ [Repository](https://github.com/JungJiBum/backend-lab)
 
 ---
 
